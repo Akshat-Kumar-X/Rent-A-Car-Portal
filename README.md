@@ -24,4 +24,6 @@ This project is a fully functional website for renting cars, built using PHP, Bo
 - Visit the website and browse available cars.
 - Register or login to book a car for rental.
 - Admins can access the admin panel to manage cars, bookings, and users.
-
+  
+## preview
+![image](https://github.com/Akshat-Kumar-X/Rent-A-Car-Portal/assets/112055229/33bc23c4-5233-4ee7-866c-db184a481ad5)
