@@ -12,7 +12,7 @@ This project is a fully functional website for renting cars, built using PHP, Bo
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/rent-a-car.git`
+1. Clone the repository: `git clone https://github.com/Akshat-Kumar-X/Rent-A-Car-Portal.git`
 2. Import the database schema from `database.sql` into your MySQL database.
 3. Configure the database connection in `config.php` file.
 4. Run the project on a local server or deploy it to a web server.
