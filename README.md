@@ -3,6 +3,9 @@
 This project is a fully functional website for renting cars, built using PHP, Bootstrap, HTML, CSS, JavaScript, and MySQL. It features a responsive design and includes an admin panel for managing the car rental service.
 
 ## Demo : [https://rent-a-carr.great-site.net/](https://rent-a-carr.great-site.net/)
+  
+## preview
+![image](https://github.com/Akshat-Kumar-X/Rent-A-Car-Portal/assets/112055229/33bc23c4-5233-4ee7-866c-db184a481ad5)
 
 ## Features
 
@@ -24,6 +27,4 @@ This project is a fully functional website for renting cars, built using PHP, Bo
 - Visit the website and browse available cars.
 - Register or login to book a car for rental.
 - Admins can access the admin panel to manage cars, bookings, and users.
-  
-## preview
-![image](https://github.com/Akshat-Kumar-X/Rent-A-Car-Portal/assets/112055229/33bc23c4-5233-4ee7-866c-db184a481ad5)
+
